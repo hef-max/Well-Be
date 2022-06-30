@@ -56,7 +56,7 @@ def login(request):
     #         return render(request, 'users/index.html', context)
     # else:
     context = {
-        "page_title": "Login",
+        "page_title": "Login"
     }
     return render(request, 'users/index.html', context)
 
