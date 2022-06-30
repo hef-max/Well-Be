@@ -1,0 +1,15 @@
+.tema {
+	width: 25%;
+	margin: 0 auto;
+	border-radius: 14px;
+	color: #fff;
+	content: '';
+	padding: 20px;
+	left: 50%;
+}
+.sub {
+	width: 100%;
+	color:#fff !important;
+	border-radius: 50px !important;
+	border: 0 !important;
+}
