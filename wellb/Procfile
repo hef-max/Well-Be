@@ -1,1 +1,1 @@
-web: gunicorn wellb.wsgi --log-file -
+web: gunicorn wellb.wsgi
